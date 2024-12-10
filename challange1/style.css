@@ -1,0 +1,11 @@
+.parent{
+    width: 80%;
+    background-color: rgb(11, 88, 85);
+    padding: 5em;
+    margin: auto;
+}
+
+.child{
+    width: 50%;
+    color: white;
+}
